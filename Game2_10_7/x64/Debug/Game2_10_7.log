@@ -1,0 +1,4 @@
+﻿  test.c
+D:\jiabeik\vsFile\Game2_10_7\test.c(21,19): warning C4013: “rand”未定义；假设外部返回 int
+D:\jiabeik\vsFile\Game2_10_7\test.c(84,5): warning C4013: “srand”未定义；假设外部返回 int
+  Game2_10_7.vcxproj -> D:\jiabeik\vsFile\Game2_10_7\x64\Debug\Game2_10_7.exe

@@ -1,0 +1,4 @@
+﻿  test.c
+D:\jiabeik\vsFile\Game_10_9\test.c(62,19): warning C4474: scanf: 格式字符串中传递的参数太多
+D:\jiabeik\vsFile\Game_10_9\test.c(62,19): message : 占位符和其参数预计 1 可变参数，但提供的却是 2 参数
+  Game_10_9.vcxproj -> D:\jiabeik\vsFile\Game_10_9\x64\Debug\Game_10_9.exe
