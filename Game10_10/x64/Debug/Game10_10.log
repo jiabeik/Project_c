@@ -1,0 +1,5 @@
+﻿  game.c
+  test.c
+D:\jiabeik\vsFile\Game10_10\test.c(47,11): warning C4013: “Get_input”未定义；假设外部返回 int
+  正在生成代码...
+  Game10_10.vcxproj -> D:\jiabeik\vsFile\Game10_10\x64\Debug\Game10_10.exe
